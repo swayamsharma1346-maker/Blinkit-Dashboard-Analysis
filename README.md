@@ -153,5 +153,5 @@ Swayam Sharma
 Project: Blinkit Sales Analysis Dashboard
 Screenshot/
 Show what the dashboard looks like.
-Example:
+Example:https://github.com/swayamsharma1346-maker/Blinkit-Dashboard-Analysis/blob/main/Blinkit%20Dashboard.png
 Technology: Microsoft Power BI
